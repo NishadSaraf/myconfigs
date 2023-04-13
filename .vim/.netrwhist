@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/dev/work/linux/drivers/dma/amd'
+let g:netrw_dirhist_5='/home/dev/work/linux/drivers/dma'
+let g:netrw_dirhist_4='/home/dev/work/xrt/build/Release/usr/src/xrt-2.15.0/driver/xocl/subdev'
+let g:netrw_dirhist_3='/home/dev/work/linux/drivers/dma/amd'
+let g:netrw_dirhist_2='/home/dev/work/linux/drivers/dma/mqdma'
+let g:netrw_dirhist_1='/home/dev/work/xrt/build/Release/usr/src/xrt-2.15.0/driver/xocl/mgmtpf'

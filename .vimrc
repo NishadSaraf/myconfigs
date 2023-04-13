@@ -417,6 +417,7 @@ map <leader>pp :setlocal paste!<cr>
 if &diff
 	colorscheme mycolorscheme
 endif
+
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Helper functions
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
